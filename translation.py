@@ -1,24 +1,25 @@
 from sample_config import Config
 
 class Translation(object):
-    START_TEXT = """Hello <i><b>{}</b></i>,
+    START_TEXT = """Hy..!! <i><b>{}</b></i>,
 
-This is a Telegram Rename Bot
-I Can rename ✍ with custom thumbnail and upload as video/file
+I am a Simple Renamer Bot with custom thumbnail support and upload as video/file
+
+Maninained by : @Itz_Me_Malayaali
 
 Type /help for more details."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "There is no upgrade plan till now!!"
-    DOWNLOAD_START_VIDEO = "Downloading to my server.....📥"
-    DOWNLOAD_START = "Downloading to my server.....📥"
-    UPLOAD_START_VIDEO = "Uploading as video.....📤"
-    UPLOAD_START = "Uploading as File.....📤"
+    DOWNLOAD_START_VIDEO = "Downloading to my server.....🚀"
+    DOWNLOAD_START = "Downloading to my server.....🚀"
+    UPLOAD_START_VIDEO = "Uploading as video.....🚨"
+    UPLOAD_START = "Uploading as File.....🚨"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations.I can't do anything for that 🤷‍♂️."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using my service. ❤️**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using meh...! ❤️**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/Ns_Bot_supporters'>Ns Bot Supporters</a>"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/ML_SupportGroup'>ML Support Group</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail saved ✅️ . This image will be deleted with in 24hr"
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
@@ -28,7 +29,7 @@ Type /help for more details."""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
 
-I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
+𝒀𝒐𝒖 𝑵𝒆𝒆𝒅 𝑯𝒆𝒍𝒑 ?? 😅 ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
     
 1. Send Me A Thumbnail.
 
@@ -58,4 +59,4 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** Meh"""
+**👨‍💻 Developer:** @Itz_Me_Malayaali"""
